@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-1.  At the start of the project, I did not get the .javs files instead i had .kt files(Kotlin). I had to change all those files to Java and it turns there is a way to do it inside Android stuio itself.
+1.  At the start of the project, I did not get the .java files instead i had .kt files (Kotlin). I had to change all those files to Java and it turns there is a way to do it inside Android studio itself.
 2.  Later on in the project my edit function had an error which was causing the application to crash when tried to edit text. There was a missing line of code in the AndroidManifest.xml file.
 
 ## License
